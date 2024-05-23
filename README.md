@@ -1,5 +1,5 @@
-- 👋 Hi, I’m dev.mbugua
-- 👀 I’m interested in UI/UX but also venture in backend technologies.
+- 👋 Nickname: qode_manqi
+- 👀 Software developer (frontend & backend)
 - 🌱 I’m currently learning React, Agile and Flask API, with a daily prescription of data structures and algorithms.
 
 
@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, flask, ai, js, mongodb, react, tailwind, vite" />
   </a>
 </p>
