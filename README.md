@@ -1,5 +1,4 @@
-- 👋 Nickname: qode_manqi
-- 👀 Software developer (frontend > backend)
-- 🌱 
-
+- 👋 Alias: manqiqode
+- 👀 software dev
+- 🌱 specialization: frontend::::::::.. backend:::::.....
 
