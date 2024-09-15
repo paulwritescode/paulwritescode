@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Go ToDo app<br>🌱 I’m currently learning Go<br>
+🔭 I’m currently working on a Telematic's frontend system<br>🌱 I’m currently learning Go<br>
 
 
 # 💻 Tech Stack:
