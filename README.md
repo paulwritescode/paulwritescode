@@ -8,9 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=paulwritescode&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulwritescode&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulwritescode&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-# Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulwritescode&show_icons=true&count_private=true&hide_title=false&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulwritescode&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
