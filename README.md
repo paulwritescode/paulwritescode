@@ -1,6 +1,3 @@
-
-###
-
 <div align="left">
   <a href="https://linktr.ee/paulkinyatti" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
