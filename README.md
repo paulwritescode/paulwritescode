@@ -16,6 +16,8 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="left">Empowering ideas</h1>
 
 ###
