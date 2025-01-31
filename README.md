@@ -4,13 +4,6 @@
   </a>
 </div>
 
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=paulwritescode.paulwritescode&"  />
-</div>
-
-###
 
 <br clear="both">
 
