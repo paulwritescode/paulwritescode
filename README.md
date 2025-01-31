@@ -1,4 +1,3 @@
-<img align="left" height="194" src="https://img.freepik.com/free-photo/cartoon-man-wearing-vr-glasses_23-2151136822.jpg?t=st=1738361080~exp=1738364680~hmac=9af62e13ee6712695167aba95cf032225edeca8ef1b246063de65d6387e47fa3&w=1380"  />
 
 ###
 
@@ -70,17 +69,7 @@
 
 ###
 
-<br clear="both">
 
-<h3 align="left"></h3>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulwritescode&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=paulwritescode&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulwritescode&theme=nightowl&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=paulwritescode&theme=tokyonight&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-</div>
 
 ###
